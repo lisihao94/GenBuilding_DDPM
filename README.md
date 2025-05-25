@@ -1,6 +1,6 @@
 # GenBuilding_DDPM
-这是我们的研究的部分原始数据集和测试结果。
-This is part of the original data set and test results of our research.
+这是我们的研究的部分原始数据集和测试结果。论文的手稿正在修订，在正式出版后将提供索引。
+This is part of the original data set and test results of our research. The manuscript of the paper is being revised and will be indexed after its official publication.
 
 **trainingdata**中的文件是部分示例；您可以根据自己的数据和需求创建更多类似的示例。
 The files in **trainingdata** are partial examples; you can create more similar examples based on your own data and requirements. 
